@@ -75,3 +75,5 @@ streamlit run app.py
 <img width="1882" height="858" alt="image" src="https://github.com/user-attachments/assets/b71bdfd1-555f-47bc-8e7d-ed77c3806bcc" />
 
 ## Result:
+
+The YOLO model successfully detected objects in images, videos, and webcam input using the Streamlit application. The system produced clear bounding boxes and labels for various COCO classes and worked smoothly on my local machine using the Conda environment in VS Code. The app launched correctly with `streamlit run app.py` and displayed accurate results for all tested inputs.
